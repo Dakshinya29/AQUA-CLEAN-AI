@@ -1,0 +1,5 @@
+
+hotspot_id,latitude,longitude,waste,priority,status
+H001,11.0168,76.9558,Metal,High,Waiting
+H002,11.0200,76.9600,Metal,Medium,Waiting
+H003,11.0250,76.9650,Plastic + Metal,High,Waiting
